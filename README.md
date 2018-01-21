@@ -1,4 +1,4 @@
-# MyApplication
+# SurfTestApp
 
 Тестовое задание для компании Surf
 
