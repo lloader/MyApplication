@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_view_hint">Поиск по названию фильма</string>
+    <string name="film_poster">FilmPoster</string>
+    <string name="request_error">Нам не удалось обработать ваш запрос. Попробуйте еще раз</string>
+    <string name="network_error">Проблема с подключением к интернету. Попробуйте еще раз</string>
+</resources>
