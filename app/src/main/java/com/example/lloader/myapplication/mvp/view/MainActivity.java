@@ -132,7 +132,6 @@ public class MainActivity extends AppCompatActivity implements MainView {
             mFilmList.setVisibility(GONE);
             hideAllNotificationComponents();
             mHorizontalProgressBar.setVisibility(GONE);
-            mSwipeRefreshLayout.setRefreshing(true);
             mProgressBar.setVisibility(VISIBLE);
         } else {
             mHorizontalProgressBar.setVisibility(VISIBLE);
